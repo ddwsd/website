@@ -1,0 +1,32 @@
+theme = "hallo"
+
+[Author]
+    name = "Shaodian"
+
+[params]
+    [[params.links]]
+        iconset = "fas"
+        icon = "file"
+        title = "Resume"
+        url = "https://drive.google.com/file/d/1nNCy70IjTYcqrsWP5T7vRzvmazkd5HYT/view?usp=sharing"
+    [[params.links]]
+        icon = "github"
+        title = "GitHub"
+        url = "https://github.com/ddwsd"
+    [[params.links]]
+        icon = "linkedin"
+        title = "LinkedIn"
+        url = "https://www.linkedin.com/in/shaodian-wang-1a9a84153/"
+    [[params.links]]
+        iconset = "fas"
+        icon = "envelope"
+        title = "E-mail"
+        url = "mailto:diandianws@gmail.com"
+
+    [params.colors]
+        background = "#4e4f4a"
+        foreground = "#fafafa"
+        hover = "#ffba82"
+
+
+
